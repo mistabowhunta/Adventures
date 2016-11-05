@@ -27,7 +27,7 @@ namespace Engine
             Description = description;
             ItemRequiredToEnter = itemRequiredToEnter;
             QuestAvailableHere = questAvailableHere;
-            MonsterLivingHere = monsterLivingHere;  //hello testing git again
+            MonsterLivingHere = monsterLivingHere;
         }
     }
 }
