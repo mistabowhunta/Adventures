@@ -12,3 +12,11 @@ C:\Users\Isaac\Documents\Visual Studio 2015\Projects\SuperAdventure\SuperAdventu
 C:\Users\Isaac\Documents\GitHub\Adventures\SuperAdventure\bin\Debug\SuperAdventure.exe.config
 C:\Users\Isaac\Documents\GitHub\Adventures\SuperAdventure\obj\Debug\SuperAdventure.exe
 C:\Users\Isaac\Documents\GitHub\Adventures\SuperAdventure\obj\Debug\SuperAdventure.pdb
+C:\Users\Isaac\Documents\GitHub\Adventures\SuperAdventure\obj\Debug\SuperAdventure.csprojResolveAssemblyReference.cache
+C:\Users\Isaac\Documents\GitHub\Adventures\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\Users\Isaac\Documents\GitHub\Adventures\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
+C:\Users\Isaac\Documents\GitHub\Adventures\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.Cache
+C:\Users\Isaac\Documents\GitHub\Adventures\SuperAdventure\bin\Debug\SuperAdventure.exe
+C:\Users\Isaac\Documents\GitHub\Adventures\SuperAdventure\bin\Debug\SuperAdventure.pdb
+C:\Users\Isaac\Documents\GitHub\Adventures\SuperAdventure\bin\Debug\Engine.dll
+C:\Users\Isaac\Documents\GitHub\Adventures\SuperAdventure\bin\Debug\Engine.pdb
