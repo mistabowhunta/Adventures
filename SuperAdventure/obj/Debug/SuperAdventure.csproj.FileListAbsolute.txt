@@ -1,0 +1,11 @@
+c:\users\isaac\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+c:\users\isaac\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+c:\users\isaac\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+c:\users\isaac\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\Engine.dll
+c:\users\isaac\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\bin\Debug\Engine.pdb
+c:\users\isaac\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csprojResolveAssemblyReference.cache
+c:\users\isaac\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+c:\users\isaac\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.Cache
+c:\users\isaac\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+c:\users\isaac\documents\visual studio 2015\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
+C:\Users\Isaac\Documents\Visual Studio 2015\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
